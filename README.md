@@ -14,3 +14,8 @@ RTTTL Codec is a RTTTL Songs Player C Implementation, inspired by Austin_Stowe "
 
 # Useful resources
 For more RTTTL Ringtinoes use the link :https://picaxe.com/rtttl-ringtones-for-tune-command/
+
+# Revision History
+
+### Version 1.0.0
+Initial Release
